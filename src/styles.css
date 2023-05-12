@@ -55,7 +55,7 @@ h1 {
 
 h2 {
   font-size: 2rem;
-  font-weight: 400;
+  font-weight: 700;
   margin: 0;
   padding-top: 1rem;
 }
@@ -90,7 +90,7 @@ li {
 }
 
 li::marker {
-  color: #4e567e;
+  color: #7A00D9;
 }
 
 a {
@@ -99,7 +99,7 @@ a {
 }
 
 a:hover {
-  color: #4e567e;
+  color: #7A00D9;
 }
 
 .container {
